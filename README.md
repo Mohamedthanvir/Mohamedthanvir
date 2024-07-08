@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Thanvir</h1>
-<h3 align="center">Front-end Developer</h3>
+<h3 align="center">Full stack-developer Developer</h3>
 
-- 📫 How to reach me **mohamedthanvir64@gmail.com**
+- 📫 How to reach me **mohamedthanvir9@gmail.com**
 
 
 
